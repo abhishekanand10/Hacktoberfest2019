@@ -421,3 +421,26 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhishek Anand
+- Photo: 
+- Location: Bangalore, India
+- Bio: student
+- Github: http://github.com/abhishekanand10
+***
+
+
+### Tanuja P
+- Photo: 
+- Location: Bangalore, India
+- Bio: student
+- Github: http://github.com/tj10
+***
+
+### TJ
+- Photo: 
+- Location: Bangalore, India
+- Bio: student
+- Github: http://github.com/
+***
+
